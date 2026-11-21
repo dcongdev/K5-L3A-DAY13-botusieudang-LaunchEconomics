@@ -12,7 +12,7 @@
 
 - Thư ký hội đồng Gate 2a: ghi `report/team/phieu_cham.md` khi chấm hồ sơ của nhóm n + 1 trong buổi duyệt chéo.
 - Ghi kết quả duyệt chéo mà nhóm nhận được vào `report/team/group_report.md` (mục 4, mục 5).
-- Thêm mình vào `TEAM.md` (bảng thành viên và mục cá nhân) vì là thành viên vào nhóm sau.
+- Tự thêm mình vào `TEAM.md` (bảng thành viên và mục cá nhân), theo phân công của nhóm.
 
 ## 3. Đóng góp cụ thể
 
@@ -34,4 +34,4 @@
 ## 6. Tự đánh giá
 
 - Đã hoàn thành phần việc lần 1 đúng thứ tự push (sau anh Công, trước Khôi Nguyên). Phần duyệt chéo lần 2 sẽ làm trong giờ duyệt chéo và cập nhật vào các mục 3 và 4 sau đó.
-- Điểm cần cải thiện: vào nhóm muộn nên cần đọc kỹ hồ sơ trước để chấm có số liệu cụ thể, không chấm chung chung.
+- Điểm cần cải thiện: cần đọc kỹ hồ sơ nhóm được chấm trước giờ duyệt chéo để chấm có số liệu cụ thể, không chấm chung chung.
