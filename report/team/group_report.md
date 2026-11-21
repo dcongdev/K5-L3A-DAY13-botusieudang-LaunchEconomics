@@ -41,6 +41,7 @@ Dựng hồ sơ launch v0 cho trợ lý hoàn phí LogiX-VN để hội đồng 
 - So sánh với 12.000 đ dễ sai nếu dùng 4.472 ÷ 12.000 = 0,37× → dùng chi phí cả hệ thống (cộng 222 yêu cầu nhân viên làm thay) = 0,49×.
 - 40 nhân viên không đủ mẫu cho mức chênh 5 điểm với mọi cách chia theo cụm → chấp nhận MDE 6 điểm, nêu power 0,64.
 - Ngưỡng mở lại tuyệt đối 3% sẽ dừng pilot ngay tuần đầu (hiện 3,97% trong phạm vi; hang_nang 8,23%) → ngưỡng tương đối so với đối chứng + trần 6%.
+- File output chạy trên máy thứ hai ban đầu lưu dạng UTF-16 (do lệnh `>` của PowerShell) nên vỡ chữ trên GitHub → chuyển lại sang UTF-8, nội dung giữ nguyên.
 
 ## 6. Tổng hợp đóng góp
 
@@ -51,6 +52,7 @@ Chi tiết đóng góp của từng thành viên nằm trong `TEAM.md`.
 - Phút xem lại / làm lại là giả lập; phút làm lại trong dữ liệu (15,3) khác giả định của đề (9) → cần thay bằng phút đo thật sau tuần 1 pilot.
 - ICC 0,02 là giả định; nên ước lượng lại từ tỉ lệ thành công theo `staff_id` khi có dữ liệu pilot.
 - Đợt chạy thử không có đối chứng nên chưa nói được trợ lý có nâng chỉ số chính hay không.
+- Nhiệm vụ C: bộ nhãn 2 được điền sau khi đã thấy bộ nhãn 1, nên tỉ lệ 20/20 không đo được đồng thuận độc lập. Lần sau hai người gắn nhãn phải chốt nhãn của mình trước rồi mới mở bộ kia.
 
 ## 8. Tài liệu tham khảo
 

@@ -4,7 +4,7 @@
 
 - Họ tên: Lê Quang Huy
 - MSSV: 2A202603470
-- Email: lequanghuy2005@gmail.com
+- Email: lehuy20112002@gmail.com
 - Vai trong nhóm: người kiểm số
 
 ## 2. Phần việc phụ trách
@@ -24,7 +24,7 @@
 
 ## 4. Bằng chứng
 
-- Commit: commit kiểm số tay và chạy code máy 2.
+- Commit: commit kiểm số tay và chạy code máy 2, tài khoản GitHub `lequanghuy2005`.
 - File:
   + `report/team/output_kiem_so.txt`
   + `report/team/bang_chi_phi.md` (mục `## Kiểm số tay (Người kiểm số: Lê Quang Huy)`)
