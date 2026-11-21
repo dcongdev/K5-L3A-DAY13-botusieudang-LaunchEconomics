@@ -22,7 +22,7 @@ Viết và chạy `src/lab13.py` cho nhiệm vụ A, B, D1 (kèm D3 và E1); ch�
 ## 4. Bằng chứng
 
 - File: `src/lab13.py`, `report/team/bang_chi_phi.md`, `report/team/pilot_plan.yaml`.
-- Commit: ...
+- Commit: các commit `src/lab13.py` và hồ sơ của tài khoản GitHub `nguyenkhoinguyen07122005-cpu`.
 - Output: `cd src && python3 lab13.py` (in đủ A1 → E1 và kiểm tra `pilot_plan.yaml` đọc được, không còn dấu `?`).
 
 ## 5. Công cụ AI đã dùng
@@ -33,4 +33,5 @@ Viết và chạy `src/lab13.py` cho nhiệm vụ A, B, D1 (kèm D3 và E1); ch�
 
 ## 6. Tự đánh giá
 
-...
+- Hoàn thành phần code A, B, D1; `src/lab13.py` chạy từ đầu đến cuối và khớp số đối chiếu trong hướng dẫn.
+- Cần cải thiện: phút xem lại và làm lại vẫn là số giả lập; lần sau nên kiểm tra giả định của đề (9 phút làm lại so với 15,3 phút trong dữ liệu) sớm hơn.

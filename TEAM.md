@@ -53,7 +53,7 @@ Sao chép mục dưới đây cho từng thành viên.
 
 *   Commit của tài khoản nguyenkhoinguyen07122005-cpu; output `cd src && python3 lab13.py`; báo cáo `report/team/2A202603453_NguyenKhoiNguyen.md`.
 
-## DuongVanCong-MSSV
+## DuongVanCong-2A202603468
 
 ### Phần việc phụ trách
 

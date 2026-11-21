@@ -37,7 +37,7 @@ Người gắn nhãn 1: Nguyễn Hải Anh · Người gắn nhãn 2: Dương V�
 | 19 | Đơn 14 tháng trước, trợ lý chỉ truy cập 12 tháng, chuyển nhân viên | Giới hạn hệ thống | Giới hạn hệ thống | ✓ | Giới hạn hệ thống |
 | 20 | Khách gửi lại sau 10 phút, hoàn 2 lần vì thiếu khoá chống trùng | Hệ thống | Hệ thống | ✓ | Hệ thống |
 
-**Tỉ lệ trùng giữa hai cột:** 20 / 20 = 100%.
+**Tỉ lệ đồng thuận:** 20 / 20 = 100% (bộ nhãn 2 được điền sau khi đã thấy bộ nhãn 1, xem `group_report.md` mục 7).
 
 ## Quy tắc phân biệt cho các ca không trùng
 

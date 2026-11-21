@@ -1,9 +1,9 @@
-# Báo cáo cá nhân — DuongVanCong-MSSV
+# Báo cáo cá nhân — DuongVanCong-2A202603468
 
 ## 1. Thông tin thành viên
 
 - Họ tên: Dương Văn Công
-- MSSV: Cần bổ sung
+- MSSV: 2A202603468
 - Email: congvduong.work@gmail.com
 - Vai trong nhóm: Người gắn nhãn 2, kiêm giữ hồ sơ
 
@@ -19,9 +19,10 @@ Hoàn thiện bảng đối chiếu 20 ca và ghi kết quả hai cột trùng 2
 
 - [Bảng lỗi CP3](bang_loi.md) có cột nhãn người 2, kết quả đối chiếu và bảng khắc phục 5 ca.
 
-## 5. Cách kiểm tra kết quả
+## 5. Công cụ AI đã dùng
 
-Kiểm tra đủ 20 dòng, so từng cặp nhãn và đối chiếu 5 ca trong bảng khắc phục. Cột 1 đã có sẵn khi cột 2 được điền.
+- Công cụ AI: (anh Công tự khai: công cụ nào, dùng vào việc gì, hoặc "Không dùng")
+- Cách tự kiểm tra: kiểm tra đủ 20 dòng, so từng cặp nhãn và đối chiếu 5 ca trong bảng khắc phục. Cột 1 đã có sẵn khi cột 2 được điền.
 
 ## 6. Tự đánh giá
 

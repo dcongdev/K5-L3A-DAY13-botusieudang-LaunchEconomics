@@ -26,7 +26,7 @@
 
 ## 4. Bằng chứng
 
-- Commit: commit bộ nhãn độc lập người 1 và báo cáo cá nhân Hải Anh.
+- Commit: commit bộ nhãn người 1 và báo cáo cá nhân Hải Anh, tài khoản GitHub `haianh02034`.
 - File:
   + `report/team/bang_loi.md` (cột "Nhãn người 1")
   + `report/team/2A202603484_NguyenHaiAnh.md`
