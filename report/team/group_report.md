@@ -33,7 +33,7 @@ Dựng hồ sơ launch v0 cho trợ lý hoàn phí LogiX-VN để hội đồng 
 - Pilot: chia theo nhân viên 20 + 20, n = 859/nhóm, m ≥ 299, DE 6,96; power 0,64 nếu tác động thật chỉ 5 điểm.
 - Chỉ số đợt chạy thử: chính 82,83%, bỏ qua gợi ý 27,12%, mở lại 7 ngày 4,25%.
 - **Đề xuất: Go có điều kiện** (xem `ho_so_launch_v0.md`).
-- Kết quả duyệt chéo nhận từ hội đồng: ...
+- Kết quả duyệt chéo nhận từ hội đồng: 30/30 điểm (theo báo cáo của Thư ký hội đồng Nguyễn Thị Dung, phiếu chấm do nhóm hội đồng ghi).
 
 ## 5. Khó khăn và cách xử lý
 
