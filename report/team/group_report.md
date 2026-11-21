@@ -41,7 +41,6 @@ Dựng hồ sơ launch v0 cho trợ lý hoàn phí LogiX-VN để hội đồng 
 - So sánh với 12.000 đ dễ sai nếu dùng 4.472 ÷ 12.000 = 0,37× → dùng chi phí cả hệ thống (cộng 222 yêu cầu nhân viên làm thay) = 0,49×.
 - 40 nhân viên không đủ mẫu cho mức chênh 5 điểm với mọi cách chia theo cụm → chấp nhận MDE 6 điểm, nêu power 0,64.
 - Ngưỡng mở lại tuyệt đối 3% sẽ dừng pilot ngay tuần đầu (hiện 3,97% trong phạm vi; hang_nang 8,23%) → ngưỡng tương đối so với đối chứng + trần 6%.
-- ...
 
 ## 6. Tổng hợp đóng góp
 
