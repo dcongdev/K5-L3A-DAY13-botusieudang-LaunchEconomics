@@ -13,7 +13,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 1 | Nguyễn Khôi Nguyên | 2A202603453 | nguyenkhoinguyen07122005@gmail.com | nguyenkhoinguyen07122005-cpu | Người viết code |
 | 2 | Dương Văn Công | 2A202603468 | congvduong.work@gmail.com | dcongdev | Người gắn nhãn 2, kiêm giữ hồ sơ |
-| 3 | Lê Quang Huy | 2A202603470 | lequanghuy2005@gmail.com | lequanghuy2005 | Người kiểm số |
+| 3 | Lê Quang Huy | 2A202603470 | lequanghuy20112002@gmail.com | huylq2002-art | Người kiểm số |
 | 4 | Nguyễn Hải Anh | 2A202603484 | haianh29112@gmail.com | haianh02034 | Người gắn nhãn 1 |
 | 5 | Nguyễn Thị Dung | 2A202603508 | dungthngn@gmail.com | zoesayhii | Thư ký hội đồng |
 

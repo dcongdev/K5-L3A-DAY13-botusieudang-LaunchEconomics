@@ -4,7 +4,7 @@
 
 - Họ tên: Lê Quang Huy
 - MSSV: 2A202603470
-- Email: lequanghuy2005@gmail.com
+- Email: lequanghuy20112002@gmail.com
 - Vai trong nhóm: người kiểm số
 
 ## 2. Phần việc phụ trách
