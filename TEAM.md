@@ -14,7 +14,7 @@
 |   1 | Nguyễn Khôi Nguyên | 2A202603453 | ... | nguyenkhoinguyen07122005-cpu | Người viết code |
 |   2 | Dương Văn Công | ... | ... | ... | ... |
 |   3 | Lê Quang Huy | ... | ... | ... | ... |
-|   4 | Vũ Xuân Trường | 2A202603433 | ... | ... | ... |
+|   4 | ... Hải Anh | ... | ... | ... | ... |
 
 Bốn vai của lab:
 
@@ -56,40 +56,40 @@ Sao chép mục dưới đây cho từng thành viên.
 
 ### Phần việc phụ trách
 
--
+- ...
 
 ### Đóng góp cụ thể
 
--
+- ...
 
 ### Bằng chứng
 
--
+- ...
 
 ## LeQuangHuy-MSSV
 
 ### Phần việc phụ trách
 
--
+- ...
 
 ### Đóng góp cụ thể
 
--
+- ...
 
 ### Bằng chứng
 
--
+- ...
 
-## VuXuanTruong-2A202603433
+## HaiAnh-MSSV
 
 ### Phần việc phụ trách
 
--
+- ...
 
 ### Đóng góp cụ thể
 
--
+- ...
 
 ### Bằng chứng
 
--
+- ...
