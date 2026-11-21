@@ -12,7 +12,7 @@ Nhóm botusieudang · L3A. 20 ca lỗi nằm trong `docs/Ngay13_Lab13_De_bai_hoc
 
 ## Hai bộ nhãn
 
-Người gắn nhãn 1: Nguyễn Hải Anh · Người gắn nhãn 2: Dương Văn Công (AI hỗ trợ gắn nhãn từ mô tả trong bảng sau khi đã thấy cột 1)
+Người gắn nhãn 1: Nguyễn Hải Anh · Người gắn nhãn 2: Dương Văn Công (cột 2 được điền sau khi đã xem cột 1)
 
 | Ca | Tóm tắt | Nhãn người 1 | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- | --- |

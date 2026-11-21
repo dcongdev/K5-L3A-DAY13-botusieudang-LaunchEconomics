@@ -60,11 +60,11 @@ Sao chép mục dưới đây cho từng thành viên.
 
 ### Đóng góp cụ thể
 
-*   Hoàn thiện cột nhãn người 2 cho 20 ca với hỗ trợ từ ChatGPT sau khi công cụ đã thấy cột 1. Ghi 20/20 ca trùng và đối chiếu nhãn của 5 ca trong bảng khắc phục.
+*   Hoàn thiện cột nhãn người 2 cho 20 ca. Ghi 20/20 ca trùng và đối chiếu nhãn của 5 ca trong bảng khắc phục.
 
 ### Bằng chứng
 
-*   [Bảng lỗi CP3](report/team/bang_loi.md) và [báo cáo cá nhân của Công](report/team/MSSV_DuongVanCong.md).
+*   [Bảng lỗi CP3](report/team/bang_loi.md) và [báo cáo cá nhân của Công](report/team/2A202603468_DuongVanCong.md).
 
 ## LeQuangHuy-2A202603470
 
