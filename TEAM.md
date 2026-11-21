@@ -15,6 +15,7 @@
 |   2 | Dương Văn Công | ... | ... | ... | ... |
 |   3 | Lê Quang Huy | ... | ... | ... | ... |
 |   4 | ... Hải Anh | ... | ... | ... | ... |
+|   5 | Nguyễn Thị Dung | 2A202603508 | dungthngn@gmail.com | zoesayhii | Thư ký hội đồng |
 
 Bốn vai của lab:
 
@@ -93,3 +94,17 @@ Sao chép mục dưới đây cho từng thành viên.
 ### Bằng chứng
 
 - ...
+
+## NguyenThiDung-2A202603508
+
+### Phần việc phụ trách
+
+- Thư ký hội đồng Gate 2a: ghi report/team/phieu_cham.md; ghi kết quả duyệt chéo vào report/team/group_report.md.
+
+### Đóng góp cụ thể
+
+- Thêm mình vào TEAM.md, tạo báo cáo cá nhân; chấm phiếu duyệt chéo nhóm n + 1 và ghi kết quả nhóm nhận được (lần 2, sau buổi duyệt chéo).
+
+### Bằng chứng
+
+- Commit của tài khoản zoesayhii; báo cáo `report/team/2A202603508_NguyenThiDung.md`; `report/team/phieu_cham.md`, `report/team/group_report.md`.
