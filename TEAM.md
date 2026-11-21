@@ -14,7 +14,7 @@
 |   1 | Nguyễn Khôi Nguyên | 2A202603453 | ... | nguyenkhoinguyen07122005-cpu | Người viết code |
 |   2 | Dương Văn Công | ... | ... | ... | ... |
 |   3 | Lê Quang Huy | 2A202603470 | lequanghuy2005@gmail.com | lequanghuy2005 | Người kiểm số |
-|   4 | ... Hải Anh | ... | ... | ... | ... |
+|   4 | Nguyễn Hải Anh | 2A202603484 | haianh29112@gmail.com | haianh02034 | Người gắn nhãn 1 |
 
 Bốn vai của lab:
 
@@ -82,16 +82,17 @@ Sao chép mục dưới đây cho từng thành viên.
 
 - Output `report/team/output_kiem_so.txt`, mục Kiểm số tay trong `report/team/bang_chi_phi.md`, báo cáo `report/team/2A202603470_LeQuangHuy.md`.
 
-## HaiAnh-MSSV
+## NguyenHaiAnh-2A202603484
 
 ### Phần việc phụ trách
 
-- ...
+- Người gắn nhãn 1: theo dõi checklist "Xong khi", gắn nhãn độc lập 20 ca lỗi ở CP3, đối chiếu tỷ lệ đồng thuận và hoàn thiện phần lỗi.
 
 ### Đóng góp cụ thể
 
-- ...
+- Đọc đề bài và thực hiện gắn nhãn độc lập 20 ca lỗi vào cột "Nhãn người 1" trong `report/team/bang_loi.md` theo 5 loại lỗi Google PAIR (4 ca Do người dùng, 5 ca Hệ thống, 4 ca Ngữ cảnh, 4 ca Giới hạn hệ thống, 3 ca Ngầm).
+- Chuẩn bị rà soát ca không trùng với người gắn nhãn 2 để đạt tỷ lệ đồng thuận ≥ 80% (≥ 16/20 ca) và xây dựng bảng biện pháp khắc phục đo lường được.
 
 ### Bằng chứng
 
-- ...
+- Cột "Nhãn người 1" trong `report/team/bang_loi.md`, báo cáo cá nhân `report/team/2A202603484_NguyenHaiAnh.md`.
