@@ -5,13 +5,13 @@
 *   Tên nhóm: botusieudang
 *   Lớp: L3A
 *   Repo nhóm: `K5-L3A-DAY13-botusieudang-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-*   URL repo, nhánh nộp, commit chốt: https://github.com/dcongdev/K5-L3A-DAY13-botusieudang-LaunchEconomics · `main` · ...
+*   URL repo, nhánh nộp, commit chốt: https://github.com/dcongdev/K5-L3A-DAY13-botusieudang-LaunchEconomics · `main` · c3a88f9 
 
 ## Thành viên
 
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Nguyễn Khôi Nguyên | 2A202603453 | ... | nguyenkhoinguyen07122005-cpu | Người viết code |
+| 1 | Nguyễn Khôi Nguyên | 2A202603453 | nguyenkhoinguyen07122005@gmail.com | nguyenkhoinguyen07122005-cpu | Người viết code |
 | 2 | Dương Văn Công | 2A202603468 | congvduong.work@gmail.com | dcongdev | Người gắn nhãn 2, kiêm giữ hồ sơ |
 | 3 | Lê Quang Huy | 2A202603470 | lequanghuy2005@gmail.com | lequanghuy2005 | Người kiểm số |
 | 4 | Nguyễn Hải Anh | 2A202603484 | haianh29112@gmail.com | haianh02034 | Người gắn nhãn 1 |
