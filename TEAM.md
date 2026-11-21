@@ -13,7 +13,7 @@
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Nguyễn Khôi Nguyên | 2A202603453 | ... | nguyenkhoinguyen07122005-cpu | Người viết code |
 |   2 | Dương Văn Công | ... | ... | ... | ... |
-|   3 | Lê Quang Huy | ... | ... | ... | ... |
+|   3 | Lê Quang Huy | 2A202603470 | lequanghuy2005@gmail.com | lequanghuy2005 | Người kiểm số |
 |   4 | ... Hải Anh | ... | ... | ... | ... |
 
 Bốn vai của lab:
@@ -66,19 +66,21 @@ Sao chép mục dưới đây cho từng thành viên.
 
 - ...
 
-## LeQuangHuy-MSSV
+## LeQuangHuy-2A202603470
 
 ### Phần việc phụ trách
 
-- ...
+- Người kiểm số: chạy kiểm thử `src/lab13.py` trên máy thứ hai, tính tay hai con số đối chiếu, kiểm tra bảng chi phí A2, A3, B1–B4.
 
 ### Đóng góp cụ thể
 
-- ...
+- Chạy `src/lab13.py` trên môi trường máy thứ hai (Windows), xác nhận ba phép thử đáp án biết trước ĐẠT và in đầy đủ tới "Xong.", xuất `report/team/output_kiem_so.txt`.
+- Tính tay bằng máy tính bỏ túi chi phí mỗi việc thành công (4.472 đ [simulated]) và cỡ mẫu D1e (m ≥ 299), đối chiếu khớp hoàn toàn với code và ghi vào `report/team/bang_chi_phi.md`.
+- Rà soát độ nhạy B1–B4 và các kết luận kinh tế cho hồ sơ launch.
 
 ### Bằng chứng
 
-- ...
+- Output `report/team/output_kiem_so.txt`, mục Kiểm số tay trong `report/team/bang_chi_phi.md`, báo cáo `report/team/2A202603470_LeQuangHuy.md`.
 
 ## HaiAnh-MSSV
 

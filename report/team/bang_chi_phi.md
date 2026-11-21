@@ -109,3 +109,13 @@ Chi phí cả hệ thống = tổng chi phí trợ lý + 12.000 đ × số yêu 
 **Độ nhạy theo phút làm lại.** Đề giả định 9 phút/ca, nhưng cột `phut_lam_lai_simulated` trung bình **15,3 phút/ca** (trung vị 14,5) trên 74 ca lam_lai. Thay 9 bằng 15,3: 48 × 15,3 × 2.000 = 1.468.800 đ → tổng 11.173.313 đ → **12.415 đ = 1,03×** [simulated], tức xem lại 100% còn **đắt hơn** nhân viên tự làm. Mức hoà vốn: mỗi lần xem lại phải **≤ 5,1 phút** (làm lại 9 phút) hoặc **≤ 4,8 phút** (làm lại 15,3 phút) [simulated].
 
 **Trả lời B4.** Xem lại 100% thì trợ lý không tiết kiệm được gì: 0,98× (1,03× với phút làm lại thật) [simulated], vì tiền xem lại chiếm 90% chi phí. Pilot phải học được tỉ lệ xem lại có thể giảm an toàn xuống mức nào, và mỗi lần xem lại có xuống dưới ~4,8 phút được không.
+
+## Kiểm số tay (Người kiểm số: Lê Quang Huy)
+
+| Con số | Tính tay | Code in ra | Khớp? |
+|---|---|---|---|
+| Chi phí mỗi việc thành công [simulated] | (245.585 + 84.000 + 890 × 2.000 + 1.132 × 2.000) ÷ 978 = 4.472 đ | 4.472 đ | Khớp |
+| D1e: số yêu cầu tối thiểu mỗi nhân viên | 20m ≥ 859 × (0,98 + 0,02m) → m ≥ 299 | 299 | Khớp |
+
+Đã chạy `src/lab13.py` trên máy thứ hai (Windows): ba phép thử ĐẠT, chạy hết tới "Xong.". Output: `report/team/output_kiem_so.txt`.
+
